@@ -1,0 +1,14 @@
+body{
+background-size:cover;
+}
+h1{
+    background-color: rgb(255, 0, 0);
+    text-align:center;
+    margin-top: 0px;
+}
+a{
+    color:red;
+    background-color:black;
+    font-size:80px;
+    margin:40px !important;
+}
